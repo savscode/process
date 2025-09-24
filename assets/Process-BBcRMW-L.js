@@ -1,4 +1,4 @@
-import{r as o,j as s}from"./index-js4N7NIs.js";const re=`
+import{r as o,j as s}from'./assets/index-js4N7NIs.js'; const re=`
 @keyframes pulse {
   0%   { transform: scale(1); }
   50%  { transform: scale(1.5); }
